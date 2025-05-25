@@ -41,4 +41,4 @@ Este es un proyecto de calculadora desarrollado con React. Incluye pruebas autom
    ![Vista Storybook](./screen/s4.png)
 
    Lint
-   ![Lint](./screen/lint.png)
+   /n![Lint](./screen/lint.png)
