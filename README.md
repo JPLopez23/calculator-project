@@ -28,17 +28,13 @@ Este es un proyecto de calculadora desarrollado con React. Incluye pruebas autom
 
 3. Capturas de pantalla
 
-   Calculadora
    ![Calculadora funcionando](./screen/calculadora.png)
 
-   Tests
    ![Tests ejecutándose](./screen/tests.png)
 
-   Storybooks
    ![Vista Storybook](./screen/s1.png)
    ![Vista Storybook](./screen/s2.png)
    ![Vista Storybook](./screen/s3.png)
    ![Vista Storybook](./screen/s4.png)
 
-   Lint
-   /n![Lint](./screen/lint.png)
+   ![Lint](./screen/lint.png)
