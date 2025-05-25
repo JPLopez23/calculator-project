@@ -2,14 +2,14 @@
 
 Este es un proyecto de calculadora desarrollado con React. Incluye pruebas automatizadas, integración con Storybook.
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
-### 🔧 Instalación
+### Instalación
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/JPLopez23/calculator-project.git
-   cd tu-repo
+   cd ruta donde clonaste el repo
 
 2. Instalar dependencias
     npm install
@@ -28,13 +28,17 @@ Este es un proyecto de calculadora desarrollado con React. Incluye pruebas autom
 
 3. Capturas de pantalla
 
+   Calculadora
    ![Calculadora funcionando](./screen/calculadora.png)
 
+   Tests
    ![Tests ejecutándose](./screen/tests.png)
 
+   Storybooks
    ![Vista Storybook](./screen/s1.png)
    ![Vista Storybook](./screen/s2.png)
    ![Vista Storybook](./screen/s3.png)
    ![Vista Storybook](./screen/s4.png)
 
+   Lint
    ![Lint](./screen/lint.png)
